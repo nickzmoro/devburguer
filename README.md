@@ -7,7 +7,7 @@ Este projeto foi desenvolvido em conjunto com o **DevClub**. O **DevBurguer** é
 
 ## Demonstração 🚀
 Acesse o projeto clicando no link abaixo:
-[Jokenpô - Deploy](https://jokenpo-innovative.netlify.app/)
+[DevBurguer - Deploy](https://devburguer-nicolas.netlify.app/) 🔗
 
 ![devburguer-print](https://github.com/user-attachments/assets/2e12676b-2294-44b0-8946-8cccf51f294b)
 
